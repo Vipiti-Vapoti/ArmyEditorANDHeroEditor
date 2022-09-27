@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArmyEditor", "ArmyEditor\ArmyEditor.csproj", "{AA8B8FCF-9639-457B-8041-3787DA076361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroEditor", "HeroEditor\HeroEditor.csproj", "{7AACD1E8-5025-42ED-B5B4-32A86EE67F10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8B8FCF-9639-457B-8041-3787DA076361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8B8FCF-9639-457B-8041-3787DA076361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8B8FCF-9639-457B-8041-3787DA076361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8B8FCF-9639-457B-8041-3787DA076361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AACD1E8-5025-42ED-B5B4-32A86EE67F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AACD1E8-5025-42ED-B5B4-32A86EE67F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AACD1E8-5025-42ED-B5B4-32A86EE67F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AACD1E8-5025-42ED-B5B4-32A86EE67F10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8668250-15AC-46BF-ADC6-E6E354E091DC}
+	EndGlobalSection
+EndGlobal
